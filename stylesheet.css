@@ -1,0 +1,34 @@
+#anchor-pane{
+    -fx-background-color: #040615;
+}
+#stack-pane{
+    -fx-min-width: 400px;
+    -fx-min-height: 400px;
+    -fx-background-color: #040615;
+    -fx-background-radius: 50%;
+    -fx-border-radius: 50%;
+    -fx-border-color: #fff;
+    -fx-border-width: 10px;
+}
+#circle{
+    -fx-fill: #2196f3;
+}
+#hr{
+    -fx-fill: #fff;
+}
+#mn{
+    -fx-fill: #fff;
+}
+#sc{
+    -fx-fill: #2196f3;
+}
+#clock{
+    -fx-text-fill: #fff;
+    -fx-font-family: consolas;
+    -fx-font-size: 18px;
+}
+#close-icon{
+    -fx-fill: #fff;
+    -glyph-size: 20px;
+    -fx-cursor: hand;
+}
